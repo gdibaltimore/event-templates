@@ -70,33 +70,29 @@ If you are want to sponsor or host our next study group? Get in touch with us: a
 Fill out this field. Select yourself and the location host.
 
 ## Automatically repeat this Meetup?
+*You may not need to change this section.*
 
 ![The Automatically Repeat This Meetup Section](/code-and-coffee/automatically_repeat.png)
-
-*You may not need to change this section.*
 
 Fill out this field. Set the event to not repeat, if necessary.
 
 ## Charging for this Meetup?
+*You may not need to change this section.*
 
 ![The Charging for This Meetup Section](/code-and-coffee/charging.png)
-
-*You may not need to change this section.*
 
 Fill out this field. Set the event to be free, if necessary.
 
 ## RSVP settings
+*You may not need to change this section.*
 
 ![The RSVP Settings Section](/code-and-coffee/rsvp_settings.png)
-
-*You may not need to change this section.*
 
 Fill out this field. Do not set an attendee limit unless space is significantly restricted.
 
 ## Ask question when members RSVP?
+*You do not need to change this section.*
 
 ![The Ask Question When Members RSVP Section](/code-and-coffee/question.png)
-
-*You may not need to change this section.*
 
 Do not fill out this field.
