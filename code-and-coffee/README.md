@@ -1,4 +1,4 @@
-# Code & Coffee Template
+# Code & Coffee Meetup Instructions and Details Template
 
 ## The basics
 
@@ -73,7 +73,30 @@ Fill out this field. Select yourself and the location host.
 
 ![The Automatically Repeat This Meetup Section](/code-and-coffee/automatically_repeat.png)
 
-Fill out this field.
+*You may not need to change this section.*
 
+Fill out this field. Set the event to not repeat, if necessary.
 
+## Charging for this Meetup?
 
+![The Charging for This Meetup Section](/code-and-coffee/charging.png)
+
+*You may not need to change this section.*
+
+Fill out this field. Set the event to be free, if necessary.
+
+## RSVP settings
+
+![The RSVP Settings Section](/code-and-coffee/rsvp_settings.png)
+
+*You may not need to change this section.*
+
+Fill out this field. Do not set an attendee limit unless space is significantly restricted.
+
+## Ask question when members RSVP?
+
+![The Ask Question When Members RSVP Section](/code-and-coffee/question.png)
+
+*You may not need to change this section.*
+
+Do not fill out this field.
