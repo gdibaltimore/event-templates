@@ -13,6 +13,6 @@ Code + Coffee THIS Sunday {date} ::: {meetuplink}  ::: Thanks to {eventorg} for 
 
 ##Day Before
 Join us tomorrow for Code + Coffee hosted by {sponsor/location}. Details & RSVP: {meetuplink}
-☕🖥 #gdibmore #girldevelopit #womenintech #learntocode
+☕💻 #gdibmore #girldevelopit #womenintech #learntocode
 
 _Prefer for the post to include the **#gdibmore** hashtag. The others are optional, as space allows._
