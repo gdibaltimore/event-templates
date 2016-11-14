@@ -36,7 +36,7 @@ All GDI events require that all participants abide by our [Code of Conduct](http
 
 {sponsor description}
 
-**PARKING**
+**Parking**
 
 Google map of their location: {link to Google map}
 
@@ -61,7 +61,7 @@ Or if you are looking for the next step, consider contributing to an open source
 
 **INTERESTING IN SPONSORING OR HOSTING?**
 
-If you are want to sponsor or host our next study group? Get in touch with us: angelique@gdibaltimore.com
+If you are want to sponsor or host our next study group? Get in touch with us: baltimore@girldevelopit.com
 
 ## Who's hosting this Meetup?
 
