@@ -49,6 +49,7 @@ If you are just getting started, checkout a tutorial:
 * [Code Academy](https://www.codecademy.com/)
 * [Code School](https://www.codeschool.com/)
 * [Khan Academy](https://www.khanacademy.org/)
+* [Javascript 30](https://javascript30.com/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [JS Assessment](https://github.com/rmurphey/js-assessment)
 * [Pair Up to Code](http://www.pairuptocode.com/)
